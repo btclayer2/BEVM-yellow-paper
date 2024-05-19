@@ -1,4 +1,4 @@
-# [BEVM Taproot Consensus](./Taproot Consensus yellow paper.pdf)
+# [BEVM Taproot Consensus](https://github.com/btclayer2/BEVM-yellow-paper/blob/main/Taproot%20Consensus%20yellow%20paper.pdf)
 
 ## Introduction
 
